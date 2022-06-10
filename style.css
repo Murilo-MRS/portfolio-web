@@ -7,9 +7,9 @@ body {
 .description {
     font-family: 'Roboto', sans-serif;
     width: 48%;
-    /* display: inline-block;
+    display: inline-block;
     position: relative;
-    bottom: 250px; */
+    bottom: 250px;
 }
 
 .description p {
@@ -22,14 +22,14 @@ div {
 
 .author-info {
     text-align: center;
-    display: flex;
+    /* display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
 }
 
 .imgage-container {
     width: 80%;
-    display: flex;
+    /* display: flex; */
 }
 
 .foto {
