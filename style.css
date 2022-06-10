@@ -9,8 +9,41 @@ body {
     font-weight: 300;
 }
 
-.author-name {
+div {
+    border: 2px solid #EDF2F4;
+}
+
+.author-info {
+    text-align: center;
+}
+
+.imgage-container {
+    height: 300px;
+    display: inline-block;
+}
+
+
+#foto {
+    max-height: 280px;
+    float: left;
+    padding: 10px;
+    background-color: #8d99ae;
+}
+
+.myName {
     font-family: Helvetica;
+}
+header {
+    text-align: end;
+}
+
+header li {
+    display: inline-block;
+}
+
+header li a {
+    text-decoration:  none;
+    color: #EDF2F4;
 }
 
 .html {
@@ -29,6 +62,3 @@ body {
     font-size: 8px;
 }
 
-div {
-    border: 2px solid #EDF2F4;
-}
