@@ -45,20 +45,3 @@ header li a {
     text-decoration:  none;
     color: #EDF2F4;
 }
-
-.html {
-    font-size: 24px;
-}
-.css {
-    font-size: 20px;
-}
-.js {
-    font-size: 16px;
-}
-.git {
-    font-size: 12px;
-}
-.react {
-    font-size: 8px;
-}
-
