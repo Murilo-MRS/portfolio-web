@@ -28,3 +28,7 @@ body {
 .react {
     font-size: 8px;
 }
+
+div {
+    border: 2px solid #EDF2F4;
+}
